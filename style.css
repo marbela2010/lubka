@@ -1,0 +1,13 @@
+.left {
+    color: red;
+}
+
+.right {
+    background: green;
+    display: inline-block;
+}
+
+.right:hover {
+    background: blue;
+    font-size: 50px;
+}
