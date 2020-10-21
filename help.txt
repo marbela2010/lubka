@@ -1,0 +1,6 @@
+чтобы в гитхаб 
+1) открываем терминал, командная строка  на любой файл Open terminal
+2) в терминале: 
+git add .
+git commit -m "add a photo and structure"
+git push origin master
