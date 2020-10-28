@@ -32,7 +32,37 @@ html, body {
 .commands {
 display: flex;
 justify-content: space-around;
+padding: 30px;
 }
 h2 {
     text-align: center;
+}
+.sit-img {
+    background-image: url("imgsit.jpg");
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+}
+.lay-img {
+    background-image: url("imglay.jpg");
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background-size: cover;   
+}
+.day-img {
+    background-image: url("imgday.jpg");
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background-size: cover;    
+}
+.characters {
+    display: center;
+    justify-content: center;
+}
+.list {
+    display: center;
+    justify-content: center;
 }
